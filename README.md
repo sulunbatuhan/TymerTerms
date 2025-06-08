@@ -4,7 +4,7 @@
 Please read these Terms of Service carefully before using the Tymer app. By accessing our platform and services, you agree to comply with the terms and conditions outlined below.
 
 ## ACCEPTANCE OF TERMS
-By using Maas Hesaplama - Brutten Nete, you confirm that you have read, understood, and accepted these Terms of Service and our Privacy Policy. These terms apply to all users of the app.
+By using Tymer, you confirm that you have read, understood, and accepted these Terms of Service and our Privacy Policy. These terms apply to all users of the app.
 
 ## USE OF THE APP
 Tymer is provided for informational purposes only, and the results are based on general estimation methods.
